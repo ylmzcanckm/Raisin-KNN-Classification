@@ -67,23 +67,23 @@ The model correctly classified **114 of 134** test observations. Precision was h
 
 ### Class Distribution
 
-![Class Distribution](outputs/03_class_distribution.png)
+![Class Distribution](https://raw.githubusercontent.com/ylmzcanckm/Raisin-KNN-Classification/main/outputs/03_class_distribution.png)
 
 ### Morphological Feature Distributions
 
-![Feature Boxplots](outputs/06_feature_boxplots.png)
+![Feature Boxplots](https://raw.githubusercontent.com/ylmzcanckm/Raisin-KNN-Classification/main/outputs/06_feature_boxplots.png)
 
 ### Area and Perimeter Relationship
 
-![Area vs Perimeter](outputs/07_area_vs_perimeter.png)
+![Area vs Perimeter](https://raw.githubusercontent.com/ylmzcanckm/Raisin-KNN-Classification/main/outputs/07_area_vs_perimeter.png)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](outputs/09_correlation_heatmap.png)
+![Correlation Heatmap](https://raw.githubusercontent.com/ylmzcanckm/Raisin-KNN-Classification/main/outputs/09_correlation_heatmap.png)
 
 ### K Selection
 
-![Validation Accuracy](outputs/12_k_validation_accuracy.png)
+![Validation Accuracy](https://raw.githubusercontent.com/ylmzcanckm/Raisin-KNN-Classification/main/outputs/12_k_validation_accuracy.png)
 
 ## Project Structure
 
