@@ -1,0 +1,6 @@
+metric,value
+Best K,19
+Accuracy,0.8507462686567164
+Precision,0.8852459016393442
+Recall,0.8059701492537313
+F1 Score,0.84375
